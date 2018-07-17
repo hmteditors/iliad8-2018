@@ -55,7 +55,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.53</p>
                   </div>
                   <div n="comment">
-                     <p>ἠρίστησαν⁚</p>
+                     <p>ἠρίστησαν :</p>
                   </div>
                </div>
                <div n="55" type="scholion">
@@ -85,7 +85,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.60</p>
                   </div>
                   <div n="comment">
-                     <p>γράφεται <q>ἵκανον</q>⁚</p>
+                     <p>γράφεται <q>ἵκανον</q> :</p>
                   </div>
                </div>
                <div n="74" type="scholion">
@@ -284,7 +284,7 @@ style simple scholia" alternate="no"?>
                         </choice> καὶ <q>ἐπ <placeName n="urn:cite2:hmt:place.v1:place89"><choice>
                                  <abbr>Ιδαίω</abbr>
                                  <expan>Ιδαίων</expan>
-                        </choice></placeName></q>⁚ </p>
+                        </choice></placeName></q>: </p>
                   </div>
                </div>
                <div n="142" type="scholion">
@@ -562,7 +562,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>εν τοῖς <persName n="urn:cite2:hmt:pers.v1:pers615">Διογένους</persName>
-                        <q>αμβωνεσσι</q>⁚ </p>
+                        <q>αμβωνεσσι</q>: </p>
                   </div>
                </div>
                <div n="299" type="scholion">
@@ -576,7 +576,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>αντ</abbr>
                            <expan>ἀντὶ</expan>
-                     </choice> τοῦ <q>πληγεῖσαι</q>⁚ </p>
+                     </choice> τοῦ <q>πληγεῖσαι</q>: </p>
                   </div>
                </div>
                <div n="300" type="scholion">
@@ -606,7 +606,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>οὐκ επιεικτόν</q> ⁚ </p>
+                        <q>οὐκ επιεικτόν</q> : </p>
                   </div>
                </div>
                <div n="302" type="scholion">
@@ -632,7 +632,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>πεσόντος</q>⁚ </p>
+                        <q>πεσόντος</q>: </p>
                   </div>
                </div>
                <div n="318" type="scholion">
@@ -643,7 +643,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.488</p>
                   </div>
                   <div n="comment">
-                     <p>πλεονάζει τὸ <rs type="waw">λ</rs> ὁ πολυλιτάνευτος⁚ </p>
+                     <p>πλεονάζει τὸ <rs type="waw">λ</rs> ὁ πολυλιτάνευτος: </p>
                   </div>
                </div>
                <div n="319" type="scholion">
