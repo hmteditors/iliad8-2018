@@ -43,7 +43,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.7</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρίσταρχ</abbr>
                               <expan>Ἀρίσταρχος</expan>
                            </choice></persName>
@@ -70,9 +70,9 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.10</p>
                   </div>
                   <div n="comment">
-                     <p>ἐν τῆ <persName n="urn:cite2:hmt:pers.r1:pers21">Ἀριστοφάνους</persName>
+                     <p>ἐν τῆ <persName n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφάνους</persName>
                         <q>ἀπάτερθε</q>
-                        <persName n="urn:cite2:hmt:pers.r1:pers15"><choice>
+                        <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
                               <abbr>Ζηνοδ</abbr>
                               <expan>Ζηνοδοτος</expan>
                            </choice></persName>
@@ -116,7 +116,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.23</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρίσταρχ</abbr>
                               <expan>Ἀρίσταρχος</expan>
                            </choice></persName>
@@ -149,7 +149,7 @@ style simple scholia" alternate="no"?>
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                        <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Αριστχ</abbr>
                               <expan>Ἀρίσταρχος</expan>
                            </choice></persName> αλλοι δὲ <q>εἰ σὺ κελεύεις</q> ⁑ </p>
@@ -207,7 +207,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.57</p>
                   </div>
                   <div n="comment">
-                     <p> ὡς <q><persName n="urn:cite2:hmt:pers.r1:pers35">Λητοῖ</persName></q> ἡ γὰρ
+                     <p> ὡς <q><persName n="urn:cite2:hmt:pers.v1:pers35">Λητοῖ</persName></q> ἡ γὰρ
                         εὐθεια <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.341</ref>
                            <q>χρειὼ ἐμείω γένηται</q>
@@ -277,11 +277,11 @@ style simple scholia" alternate="no"?>
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                        <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Αρισταρχ</abbr>
                               <expan>Αρισταρχος</expan>
                            </choice></persName>
-                        <sic>ὁπάζει</sic> ὁ δὲ <persName n="urn:cite2:hmt:pers.r1:pers250"
+                        <sic>ὁπάζει</sic> ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers250"
                            >Ϊξίων</persName>
                         <q>ἐπείγει</q> ⁑ </p>
                   </div>
@@ -294,7 +294,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.109</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
@@ -315,7 +315,7 @@ style simple scholia" alternate="no"?>
                         </choice> ομώνυμος <choice>
                            <abbr>ουτ</abbr>
                            <expan>οὗτος</expan>
-                        </choice> τῷ <persName n="urn:cite2:hmt:pers.r1:pers22">Ἀγαμέμνονος</persName>
+                        </choice> τῷ <persName n="urn:cite2:hmt:pers.v1:pers22">Ἀγαμέμνονος</persName>
                         ἡνιόχω ⁑</p>
                   </div>
                </div>
@@ -370,7 +370,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.137</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
@@ -403,7 +403,7 @@ style simple scholia" alternate="no"?>
                         <q><choice>
                               <abbr>τραπ</abbr>
                               <expan>τράπε</expan>
-                           </choice></q> αἱ <persName n="urn:cite2:hmt:pers.r1:pers16"
+                           </choice></q> αἱ <persName n="urn:cite2:hmt:pers.v1:pers16"
                            >Ἀριστάρχου</persName>
                      </p>
                   </div>
@@ -416,7 +416,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.163</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
@@ -434,7 +434,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.164-8.166</p>
                   </div>
                   <div n="comment">
-                     <p>τούτους καὶ <persName n="urn:cite2:hmt:pers.r1:pers21">Ἀριστοφάνης</persName>
+                     <p>τούτους καὶ <persName n="urn:cite2:hmt:pers.v1:pers21">Ἀριστοφάνης</persName>
                         ἠθέτηκεν ⁑ </p>
                   </div>
                </div>
@@ -464,7 +464,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> μακρὸν <placeName n="urn:cite2:hmt:place.r1:place45"><choice>
+                        </choice> μακρὸν <placeName n="urn:cite2:hmt:place.v1:place45"><choice>
                               <abbr>Ὄλυμπ</abbr>
                               <expan>Ὄλυμπον</expan>
                            </choice></placeName> ὡς όρος ⁑ </p>
@@ -481,7 +481,7 @@ style simple scholia" alternate="no"?>
                      <p>πρὸς τὴν συναλιφην <choice>
                            <abbr>αντ</abbr>
                            <expan>ἀντὶ</expan>
-                        </choice> τοῦ <q><persName n="urn:cite2:hmt:pers.r1:pers8">Ζῆνα</persName></q> ⁑
+                        </choice> τοῦ <q><persName n="urn:cite2:hmt:pers.v1:pers8">Ζῆνα</persName></q> ⁑
                      </p>
                   </div>
                </div>
@@ -493,7 +493,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.213</p>
                   </div>
                   <div n="comment">
-                     <p>διχῶς <persName n="urn:cite2:hmt:pers.r1:pers16">Αρισταρχος</persName> καὶ
+                     <p>διχῶς <persName n="urn:cite2:hmt:pers.v1:pers16">Αρισταρχος</persName> καὶ
                            <q>ἔεργε</q> καὶ <q>έρυκε</q> ⁑ </p>
                   </div>
                </div>
@@ -523,7 +523,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.246</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Αρισταρχ</abbr>
                               <expan>Αρισταρχος</expan>
                            </choice></persName>
@@ -564,7 +564,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>στῆ δ ἄρ ὑπ <persName n="urn:cite2:hmt:pers.r1:pers127"><choice>
+                        <q>στῆ δ ἄρ ὑπ <persName n="urn:cite2:hmt:pers.v1:pers127"><choice>
                                  <abbr>Αίαντ</abbr>
                                  <expan>Αίαντος</expan>
                               </choice></persName></q> ⁑ </p>
@@ -578,7 +578,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.270</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
@@ -597,10 +597,10 @@ style simple scholia" alternate="no"?>
                            <abbr>πε</abbr>
                            <expan>περὶ</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.r1:pers15"><choice>
+                        <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
                               <abbr>Ζηνόδοτ</abbr>
                               <expan>Ζηνόδοτον</expan>
-                           </choice></persName> καὶ <persName n="urn:cite2:hmt:pers.r1:pers21"><choice>
+                           </choice></persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers21"><choice>
                               <abbr>Αριστοφα</abbr>
                               <expan>Αριστοφανη</expan>
                            </choice></persName>
@@ -645,12 +645,12 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.304</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16">Ἀρίσταρχος</persName>
-                        <q><placeName n="urn:cite2:hmt:place.r1:place287">Αἱσύμνηθεν</placeName></q> καὶ
-                        ἡ <persName n="urn:cite2:hmt:pers.r1:pers15"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName>
+                        <q><placeName n="urn:cite2:hmt:place.v1:place287">Αἱσύμνηθεν</placeName></q> καὶ
+                        ἡ <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
                               <abbr>Ζηνοδοτ</abbr>
                               <expan>Ζηνοδότου</expan>
-                           </choice></persName> καὶ ἡ <persName n="urn:cite2:hmt:pers.r1:pers21"><choice>
+                           </choice></persName> καὶ ἡ <persName n="urn:cite2:hmt:pers.v1:pers21"><choice>
                               <abbr>Ἀριστοφα</abbr>
                               <expan>Ἀριστοφάνους</expan>
                            </choice></persName>
@@ -730,7 +730,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> ἐπι τοῦ <rs n="urn:cite2:hmt:place.r1:place6" type="ethnic"
+                        </choice> ἐπι τοῦ <rs n="urn:cite2:hmt:place.v1:place6" type="ethnic"
                            >Τρῶσαι</rs> ⁑ </p>
                   </div>
                </div>
@@ -769,7 +769,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.349</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16">Αρισταρχος</persName>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Αρισταρχος</persName>
                         <q>Γοργοῦς <sic>οἴ´ματ'</sic> εχων</q>⁚ </p>
                   </div>
                </div>
@@ -785,7 +785,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q><rs n="urn:cite2:hmt:place.r1:place114" type="ethnic">Ἀργείων</rs></q>⁚ </p>
+                        <q><rs n="urn:cite2:hmt:place.v1:place114" type="ethnic">Ἀργείων</rs></q>⁚ </p>
                   </div>
                </div>
                <div n="246" type="scholion">
@@ -796,7 +796,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.371</p>
                   </div>
                   <div n="comment">
-                     <p>ουδὲ παρὰ <persName n="urn:cite2:hmt:pers.r1:pers15">Ζηνοδότω</persName> ῆσαν ⁑
+                     <p>ουδὲ παρὰ <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνοδότω</persName> ῆσαν ⁑
                      </p>
                   </div>
                </div>
@@ -858,7 +858,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.408</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Ἀρίσταρχ</abbr>
                               <expan>Ἀρίσταρχος</expan>
                            </choice></persName>
@@ -873,7 +873,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.415</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16">Ἀρίσταρχος</persName> δια τοῦ <rs
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName> δια τοῦ <rs
                            type="waw">η</rs>
                         <q>ἠ τελέει περ</q> ⁑ </p>
                   </div>
@@ -891,7 +891,7 @@ style simple scholia" alternate="no"?>
                            <expan>οὕτως</expan>
                         </choice>
                         <q>σὺ</q> διὰ τοῦ <rs type="waw">υ</rs> το δὲ <q>ἀδεές</q> δι ενὸς <rs
-                           type="waw">δ</rs> ὁ <persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                           type="waw">δ</rs> ὁ <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Αρισταρχ</abbr>
                               <expan>Ἀριστάρχος</expan>
                            </choice></persName> ⁑ </p>
@@ -928,7 +928,7 @@ style simple scholia" alternate="no"?>
                            <abbr>ουτ</abbr>
                            <expan>οὕτως</expan>
                         </choice>
-                        <persName n="urn:cite2:hmt:pers.r1:pers16"><choice>
+                        <persName n="urn:cite2:hmt:pers.v1:pers16"><choice>
                               <abbr>Αρισταρχ</abbr>
                               <expan>Αρισταρχος</expan>
                            </choice></persName>
@@ -943,7 +943,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.449</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers16">Ἀρίσταρχος</persName>
+                     <p><persName n="urn:cite2:hmt:pers.v1:pers16">Ἀρίσταρχος</persName>
                         <q>τοῖον κότον</q> καὶ ἔχει τινα ἔμφασιν ⁑ </p>
                   </div>
                </div>
@@ -1024,7 +1024,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.478-8.479</p>
                   </div>
                   <div n="comment">
-                     <p>εἷς τω <persName n="urn:cite2:hmt:pers.r1:pers37">Τιτάνων</persName>
+                     <p>εἷς τω <persName n="urn:cite2:hmt:pers.v1:pers37">Τιτάνων</persName>
                      </p>
                   </div>
                </div>
@@ -1079,7 +1079,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> θηλυκῶς τὴν <placeName n="urn:cite2:hmt:place.r1:place6"
+                        </choice> θηλυκῶς τὴν <placeName n="urn:cite2:hmt:place.v1:place6"
                            >Ιλιον</placeName> ⁑ </p>
                   </div>
                </div>
