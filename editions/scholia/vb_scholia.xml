@@ -73,16 +73,16 @@
             </p>
           </div>
         </div>
-        <div n="103r_4" type="scholion">
+        <div n="PAGE_ID" type="scholion">
           <div n="lemma">
-            <p><num value="12">ιβ</num>
+            <p>ID
             </p>
           </div>
           <div n="ref">
-            <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.2</p>
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.LINE</p>
           </div>
           <div n="comment">
-            <p>ὁ τοῖς κεραυνοῖς τρέπων τοὺς ἐναντίους ⁑
+            <p>TEXT
             </p>
           </div>
         </div>

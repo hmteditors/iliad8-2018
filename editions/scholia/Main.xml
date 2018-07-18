@@ -1120,7 +1120,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="116" type="scholion">
                   <div n="lemma">
-                     <p>ἀνὴρ δέ κεν οὔτι <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> νόον
+                     <p>‡ ἀνὴρ δέ κεν οὔτι <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> νόον
                         εἰρύσσαιτο</p>
                   </div>
                   <div n="ref">
@@ -1194,7 +1194,7 @@ style simple scholia" alternate="no"?>
                      <p>ἡ <q>σε</q> ἐγκλιτικη ἐστιν ἀπολέλυται γὰρ νῦν καὶ τὸ <q>τίον</q> δὲ
                         ποιητικώτερον ἀπέβαλε τὸν κατ' ἀρχὴν χρόνον, δι' ὃ <q>ἐπι</q> τὴν <rs
                            type="waw">τι</rs> ἡ ὀξεῖα ἵσταται- περι δὲ τῶν τοιούτων ῥημάτων ἔφαμεν
-                        ὅτι ἴ̈ση ἐστιν ἡ χρῆσις παρα τῷ ποιητῇ ⁑</p>
+                        ὅτι ἴ+ση ἐστιν ἡ χρῆσις παρα τῷ ποιητῇ ⁑</p>
                   </div>
                </div>
                <div n="121" type="scholion">
@@ -1894,7 +1894,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.284</p>
                   </div>
                   <div n="comment">
-                     <p>πορθήσας <placeName n="urn:cite2:hmt:place.v1:place6">Ἴ̈λιον Ἰσιώνην</placeName>
+                     <p>πορθήσας <placeName n="urn:cite2:hmt:place.v1:place6">Ἴ+λιον Ἰσιώνην</placeName>
                         τὴν <persName n="urn:cite2:hmt:pers.v1:pers79">Λαομέδοντος</persName> θυγατέρα
                            <persName n="urn:cite2:hmt:pers.v1:pers145">Πριαμου</persName> δὲ ἀδελφὴν
                         ἔλαβεν αἰχμάλωτον καὶ ἔδωκεν αὐτῇ γέρας <persName
@@ -2093,7 +2093,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ὅτι ἐν τοῖς ἑξῆς τούτου μνημονεύει. <cit><ref>urn:cts:greekLit:tlg0012.tlg001:15.469</ref><q>νευρὴν δ' ἐξέρηξε νεοστροφέα</q></cit> καὶ
-                        ὅτι οὕτως εῖπε τὸ ἐνάρκησεν ἐν ἴ̈σω τὴν χεῖρα κατα τὸν καρπόν:</p>
+                        ὅτι οὕτως εῖπε τὸ ἐνάρκησεν ἐν ἴ+σω τὴν χεῖρα κατα τὸν καρπόν:</p>
                   </div>
                </div>
                <div n="224" type="scholion">
@@ -2567,7 +2567,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="254" type="scholion">
                   <div n="lemma">
-                     <p>βάσκ' ἴ̈θι <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρη</persName>
+                     <p>βάσκ' ἴ+θι <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρη</persName>
                         ταχεῖα.</p>
                   </div>
                   <div n="ref">
@@ -3324,7 +3324,7 @@ style simple scholia" alternate="no"?>
                      <p>καλῶς ἐπι μὲν <rs n="urn:cite2:hmt:place.v1:place3" type="ethnic">Ἑλληνων</rs>
                         φησὶν <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.333-2.334</ref>
-                           <q>Ἀργεῖοι δὲ μέγ' ἴ̈αχον ἀμφι δὲ νῆες σμερδαλέον</q>
+                           <q>Ἀργεῖοι δὲ μέγ' ἴ+αχον ἀμφι δὲ νῆες σμερδαλέον</q>
                         </cit>. ἐπι δὲ τῶν <rs n="urn:cite2:hmt:place.v1:place6" type="ethnic"
                            >Τρώων</rs>
                         <q>κελάδησαν</q> λέγει θορυβῶδες γὰρ τὸ βαρβαρικόν ⁑</p>
