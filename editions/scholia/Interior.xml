@@ -85,7 +85,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.60</p>
                   </div>
                   <div n="comment">
-                     <p>γράφεται <q>ἵκανον</q> :</p>
+                     <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>ἵκανον</q> :</p>
                   </div>
                </div>
                <div n="74" type="scholion">
@@ -122,7 +122,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> ὁ <q>δέ</q>
+                        </choice> ὁ <q>δε</q>
                         <choice>
                            <abbr>αντ</abbr>
                            <expan>ἀντὶ</expan>
@@ -144,7 +144,7 @@ style simple scholia" alternate="no"?>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
                         </choice> τὸν παραιβάτην <persName n="urn:cite2:hmt:pers.v1:pers172"
-                           >Ἕκτορα</persName> ἡνίοχον εἶπεν ⁑</p>
+                           >Ἕκτορα</persName> ἡνίοχον εῖπεν ⁑</p>
                   </div>
                </div>
                <div n="93" type="scholion">

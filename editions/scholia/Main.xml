@@ -310,7 +310,7 @@ style simple scholia" alternate="no"?>
                            type="waw">ω</rs>
                         <q>ἐθέλωμι</q>
                         <persName n="urn:cite2:hmt:pers.v1:pers98">Πτολεμαῖος</persName> δὲ τ ὁ τοῦ
-                           <persName n="urn:cite2:hmt:pers.v1:pers98">Ὀροάνδου</persName> ἀντὶ τοῦ
+                           <persName n="urn:cite2:hmt:pers.v1:pers98">Ὀροάνδου</persName> ἀντι τοῦ
                            <q>πρόφρων</q>
                         <q>πρόσσω</q> γράφει ⁑</p>
                   </div>
@@ -324,7 +324,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ὅτι <persName n="urn:cite2:hmt:pers.v1:pers15">Ζηνόδοτος</persName> ἀμφοτέρους
-                        ἠθέτηκεν δι αυτῶν δὲ διδασκόμεθα πᾶσαν τὴν γῆν σὺν τῆ θαλάσση ⁑</p>
+                        ἠθέτηκεν δι αυτῶν δὲ διδασκόμεθα πᾶσαν τὴν γῆν συν τῆ θαλάσση ⁑</p>
                   </div>
                </div>
                <div n="20" type="scholion">
@@ -347,7 +347,7 @@ style simple scholia" alternate="no"?>
                            <expan>ὑπὸ</expan>
                         </choice> τριῶν μόνων δεθεὶς καθ ἃ φησὶν ἐν τῆ <title><ref type="urn"
                               n="urn:cts:greekLit:tlg0012.tlg001:1">α</ref></title>- ῥητέον οὖν ὅτι
-                              <w>ἐκ<unclear>ε</unclear>ῖ</w> μὲν ἐξ επιβουλῆς ἡ ἰσχύς. ἐνταῦθα δὲ ἐκ
+                              ἐκεῖ μὲν ἐξ επιβουλῆς ἡ ἰσχύς. ἐνταῦθα δὲ ἐκ
                         τοῦ φανερῶς κρατεῖν ⁑</p>
                   </div>
                </div>
@@ -504,7 +504,7 @@ style simple scholia" alternate="no"?>
                            >Ἴδης</placeName> ἤτοι ἀπο τοῦ <q>γαργαρίζειν</q> καὶ ἀναδιδόναι τὰ
                         ὕδατα, ἢ ἀπο μεταφορὰς τοῦ ἐν τοῖς στόμασιν ἡμῶν γαργαρεῶνος τῆς λεγομένης
                            <q>σταφυλῆς</q>- καὶ γὰρ τὸ σῶμα τοῦτο ἀπο παχέος εἰς λεπτὸν καὶ ὀξὺ
-                        λήγει- τρία δέ εἰσιν ἀκρωτήρια τῆς <placeName n="urn:cite2:hmt:place.v1:place89"
+                        λήγει- τρία δέ εἰσιν ἀκρoτήρια τῆς <placeName n="urn:cite2:hmt:place.v1:place89"
                            >Ἴδης</placeName>- <placeName n="urn:cite2:hmt:place.v1:place284"
                            >Λεκτόν</placeName>
                         <placeName n="urn:cite2:hmt:place.v1:place276"><choice>
@@ -558,10 +558,10 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>ὅτι ἐλάσσους ἀεὶ τοὺς <rs n="urn:cite2:hmt:place.v1:place6" type="ethnic"
-                           >Τρῶας</rs> συν τοῖς ἐπικούροις λέγει ἡ δε ἀναφορὰ πρὸς ἐκεῖνα τὰ
+                           >Τρωας</rs> συν τοῖς ἐπικούροις λέγει ἡ δε ἀναφορὰ προς εκεῖνα τὰ
                         ἀθετούμενα, <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.131</ref>
-                           <q>πολλεων ἐκ πολίων ἐγχέσπαλοι ἄνδρες</q>
+                           <q>πολλεων ἐκ πολλίων ἐγχέσπαλοι ἄνδρες</q>
                         </cit>- καὶ πρὸς <persName n="urn:cite2:hmt:pers.v1:pers15"><choice>
                               <abbr>Ζηνόδοτ</abbr>
                               <expan>Ζηνόδοτον</expan>
@@ -579,7 +579,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.58</p>
                   </div>
                   <div n="comment">
-                     <p> ὅτι μία ἐστι πύλη καὶ πληθυντικῶς εἶπεν <q>πύλαι</q>- τὸ δὲ <q>πᾶσαι</q>
+                     <p> ὅτι μία ἐστι πύλη καὶ πληθυντικῶς εἶπεν <q>πύλαι</q>- τὸ δε <q>πᾶσαι</q>
                         ἀντι τοῦ <q>όλαι</q>- ὡς <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.135</ref>
                            <q>θριξὶ δὲ πάντα νέκυν καταείνυον</q>
@@ -597,7 +597,7 @@ style simple scholia" alternate="no"?>
                      <p>ὅτι ταυτὸν ἐξ επαναλήψεως εῖπεν- προειπὼν γὰρ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.61</ref>
                            <q>ῥινοῦς</q>
-                        </cit>, ἐπενήνοχεν <q>αὐτὰρ ἀσπίδες ὀμφαλόεσσαι</q> ἐξ αμφοτέρων ταῦτα
+                        </cit> ἐπενήνοχεν <q>αὐτὰρ ἀσπίδες ὀμφαλόεσσαι</q> ἐξ αμφοτέρων ταῦτα
                         σημαίνων</p>
                   </div>
                </div>
@@ -615,7 +615,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="63" type="scholion">
                   <div n="lemma">
-                     <p>‡ ὄφρα μὲν <sic>ἡῶς</sic> ἦν- καὶ ἀέξετο ἱερὸν ῆμαρ, ⁑</p>
+                     <p>‡ ὄφρα μὲν <sic>ἡῶς</sic> ἦν- καὶ ἀέξετο ἱερὸν ῆμαρ, </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.66</p>
@@ -678,7 +678,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.70</p>
                   </div>
                   <div n="comment">
-                     <p>μίαν ὑπὲρ εκατέρου στρατεύματος καὶ ὅτι τὰς θανατηφόρους μοίρας λέγει. ὁ δὲ
+                     <p>μίαν ὑπερ εκατέρου στρατεύματος καὶ ὅτι τὰς θανατηφόρους μοίρας λέγει. ὁ δὲ
                            <persName n="urn:cite2:hmt:pers.v1:pers225"><choice>
                               <abbr>Αἰσχύ</abbr>
                               <expan>Αἰσχύλος</expan>
@@ -692,23 +692,23 @@ style simple scholia" alternate="no"?>
                <div n="67" type="scholion">
                   <div n="lemma">
                      <p>αἱ μὲν <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιῶν</rs>
-                        κηρες:</p>
+                        κηρες</p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.73-8.74</p>
                   </div>
                   <div n="comment">
-                     <p>αθετοῦνται ὅτι ὑπὲρ εκάστου <choice>
+                     <p>αθετοῦνται ὅτι ὑπερ εκάστου <choice>
                            <abbr>στρατεύματ</abbr>
                            <expan>στρατεύματος</expan>
                         </choice> κῆρα ζυγοστατεῖ ὁ <persName n="urn:cite2:hmt:pers.v1:pers8"
                            >Ζεῦς</persName> οὐ πλείους ὡς ἐπι <persName n="urn:cite2:hmt:pers.v1:pers1"
                            >Ἀχιλλέως</persName> καὶ <persName n="urn:cite2:hmt:pers.v1:pers172"
-                           >Ἕκτορος</persName> - ὁ δὲ διασκευαστὴς ἐξέλαβε πολλάς εἰ δέ τις δύο ὑπερ
+                           >Ἕκτορος</persName> - ὁ δε διασκευαστὴς ἐξέλαβε πολλάς εἰ δέ τις δύο ὑπερ
                         ἑκατέρου ἵστασθαι φήσει ῥυόμενος τὴν σύγχυσιν τοῦ <choice>
                            <abbr>δ</abbr>
                            <expan>δυϊκοῦ</expan>
-                        </choice> σχήματος ἄλογον πρὸς τι γὰρ δύο ἀλλ' οὐ μία ⁑</p>
+                        </choice> σχήματος ἄλογον πρός τι γὰρ δύο αλλ' οὐ μία ⁑</p>
                   </div>
                </div>
                <div n="68" type="scholion">
@@ -792,9 +792,9 @@ style simple scholia" alternate="no"?>
                            <item n="3">
                               <num value="3">Γ</num> τέκτων ἀπο τῆς κλίνης</item>
                            <item n="4">
-                              <num value="4">Δ</num> ναυπηγός ἀπὸ τῆς σχεδίας</item>
+                              <num value="4">Δ</num> ναυπηγός ἀπο τῆς σχεδίας</item>
                            <item n="5">
-                              <num value="5">Ε</num> κυνηγός ἀπὸ τοῦ <placeName
+                              <num value="5">Ε</num> κυνηγός ἀπο τοῦ <placeName
                                  n="urn:cite2:hmt:place.v1:place37">Παρνασσοῦ</placeName>
                            </item>
                            <item n="6">
@@ -922,8 +922,8 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p><q>οὐδὲ ἤκουσεν</q> ἐξηγεῖται δὲ πότερον ἄρα οὐδ' όλως ἤκουσεν ὁ <persName
-                           n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName>, ἢ οὐκ ἐπείσθη δειλίαν
-                        τοῦ ἥρωος κατηγοροῦσιν ἀγνοοῦντες τὸ <q>οὐδ' ἐσάκουσεν</q>, οὐ γὰρ τὸ
+                           n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName> ἢ οὐκ επείσθη δειλίαν
+                        τοῦ ἥρωος κατηγοροῦσιν ἀγνοοῦντες τὸ <q>οὐδ' ἐς ἄκουσεν</q>, οὐ γὰρ τὸ
                         παρακοῦσαι. ἀλλα τὸ μὴ αἴσθεσθαι τελείως δηλοῖ καὶ γὰρ οὐκ ῆν δειλὸς τῶν
                         ἄλλων <choice>
                            <abbr>εσχατ</abbr>
@@ -941,7 +941,7 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p>ἀσθενής ὴ ἄτεχνος <sic>οἰονεὶ</sic> ἀπεδανός ὁ μη δυνάμενος δι ὑπερβολὴν
                         ἀσθενείας ἐν τῷ <sic>παίδῳ</sic> ὅ ἐστιν ἐδάφει στῆναι. ἔμπεδος γὰρ λέγεται
-                        ὁ εν τω πέδῳ δὲ ἰσχὺν ἑστώς ⁑</p>
+                        ὁ εν τῷ πέδῳ δὲ ἰσχὺν ἑστώς ⁑</p>
                   </div>
                </div>
                <div n="85" type="scholion">
@@ -953,7 +953,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>βραχὺ διασταλτέον ἐπι τῷ <q>ἵπποι</q>- μᾶλλον γὰρ ἐμφαίνει τὴν τοῦ εἰσίν
-                        ἔλλειψιν. καὶ ἄλλως <sic>συναπτώμενον</sic> ἀκατάλληλόν ἐστι οὐ <rs
+                        ἔλλειψιν. καὶ ἄλλως <sic>συναπτώμενον</sic> ἀκαταλληλόν ἐστι οὐ <rs
                            type="waw">ἐπιστάμενοι</rs> οὐ μὴν ἡ διά πρόθεσις ἐνταῦθα <choice>
                            <abbr>λείπ</abbr>
                            <expan>λείπει</expan>
@@ -1005,7 +1005,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.108</p>
                   </div>
                   <div n="comment">
-                     <p>ὅτι τετήρηται παρ' αὐτῶ καθαρῶς τὰ δυϊκὰ καὶ νῦν ὡς ἐπὶ δύο ἵππων διαλέγεται
+                     <p>ὅτι τετήρηται παρ' αὐτῶ καθαρῶς τὰ δυϊκὰ καὶ νῦν ὡς ἐπι δύο ἵππων διαλέγεται
                         ⁑</p>
                   </div>
                </div>
@@ -1019,7 +1019,7 @@ style simple scholia" alternate="no"?>
                   <div n="comment">
                      <p>παροξύνεται τὸ τώδε παραλόγως ἀληθὲς γὰρ ὡς ὅτι τὰ δια τοῦ <rs type="waw"
                            >δε</rs> ἐπεκτεταμένα εἰ ἔχοι προ τέλους φύσει μακρὰν προπερισπᾶται, ὅπερ
-                        ὤφειλε κἀπὶ τοῦ <q>τώδε δὲ νῶϊ</q> εἶναι, ἀλλ ὅμως πάλιν κατ' ἐπικρατεῖ καὶ
+                        ὤφειλε καπὶ τοῦ <q>τώδε δὲ νῶϊ</q> εἶναι, ἀλλ ὅμως πάλιν κατ' ἐπικρατεῖ καὶ
                         ἐπὶ τούτου πρὸ τέλους ἡ οξεῖα- ταῦτα ὁ <persName n="urn:cite2:hmt:pers.v1:pers493">Ἡρωδιανὸς</persName> ἐν τῇ
                            <title><num value="7">Ζ</num></title> ὅπου περὶ τοῦ ιῷ διαλαμβάνει-</p>
                   </div>
