@@ -300,6 +300,162 @@
               <p>δείκνυσιν οἷς δεῖ κοσμεῖσθαι τὸν ἄρχοντα- ῥώμῃ καὶ συνέσει ⁑</p>
             </div>
           </div>
+          <div n="103v_1" type="scholion">
+            <div n="lemma">
+              <p><num value="1">α</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.24</p>
+            </div>
+            <div n="comment">
+              <p>λείπει ἡ <q>συν</q> ὡς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.542</ref><q>αὐτῇσι
+ῥίζῃσι</q></cit>- πιθανῶς δὲ οὐ μόνους εἶπεν ἀνασπάσειν θεοὺς, ἀλλὰ
+καὶ τὸν περιέχοντα αὐτοὺς τόπον τὸν <placeName n="urn:cite2:hmt:place.v1:place45">Ὄλυμπον</placeName> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_2" type="scholion">
+            <div n="lemma">
+              <p><num value="2">β</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.25</p>
+            </div>
+            <div n="comment">
+              <p>ἵνα αὐτὸ δεσμεύσας, καὶ τὰ λοιπὰ ἐπάρῃ- συνερριζωμένης αὐτῷ μὲν τῆς γῆς- τῇ δὲ γῇ τῆς θαλάττης ⁑</p>
+            </div>
+          </div>
+          <div n="103v_3" type="scholion">
+            <div n="lemma">
+              <p><num value="3">γ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.27</p>
+            </div>
+            <div n="comment">
+              <p>ἔδει μὲν τὸ ἀσθενὲστερον
+προτάξαι- ἀλλ' ἢ τὸ μέτρον αἴτιον ἐγένετο,
+ἢ τοὺς θεοὺς εὐτελίζων τοῦτο <choice><abbr>φή</abbr><expan>φησίν</expan></choice> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_4" type="scholion">
+            <div n="lemma">
+              <p><num value="4">δ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.30</p>
+            </div>
+            <div n="comment">
+              <p>πιθανῶς οὐχ’ ἡ <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρα</persName> λέγει- ἐξεκαύθη γὰρ ἂν μεγάλη ἔρις- εἰωθυίας ἀεὶ πρὸς τὸν
+<persName n="urn:cite2:hmt:pers.v1:pers8">Δία</persName> ἀντιλέγειν- <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶ</persName> δὲ μετ’
+αἰδοῦς τῷ <choice><abbr>πρὶ</abbr><expan>πατρὶ</expan></choice> διαλέγεται μετριώτερον οὐχ’ ὡς ἡ <persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρα</persName>
+φθεγγομένη- ἄλλως τε καὶ τοῖς προοιμίοις αὐτὸν ἐξαίρει- καὶ τὰ μὲν κελευσθέντα <choice><abbr>φὴ</abbr><expan>φησὶν</expan></choice> ἀποπληροῦν- ὑποθήκης δὲ ἀξιοῖ μὴ φθονῆσαι-
+ καὶ ταῦτα οὐχ’ ἵνα αὐτῷ ἐμποδίσῃ, ἀλλ' ἵνα μὴ πάντες ἀπόλωνται ⁑</p>
+            </div>
+          </div>
+          <div n="103v_5" type="scholion">
+            <div n="lemma">
+              <p><num value="5">ε</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.31</p>
+            </div>
+            <div n="comment">
+              <p>μετρίοις χρῆται λόγοις- πατέρα γὰρ αὐτὸν ἐν προοιμίοις ἀποκαλεῖ. καὶ
+τῶν ἄλλων θεῶν μέγιστον- καὶ τῇ ὑπεροχῇ ἣν ἔχειν βούλεται, μαρτυρεῖ συντόμως αὐτή
+ ⁑</p>
+            </div>
+          </div>
+          <div n="103v_6" type="scholion">
+            <div n="lemma">
+              <p><num value="6">ϛ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.33</p>
+            </div>
+            <div n="comment">
+              <p>ὁ μὲν οὐκ ἐγύμνωσεν ἑαυτοῦ τὴν γνώμην ὅτι τοῖς <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρωσὶν</rs> ἐπικουρεῖν θέλει- ἀλλ'
+                ἀμφοτέροις βοηθεῖν, ἐκέλευσε κωλύειν- ἡ δὲ\ ξυνιεῖσα, ἤλεγξεν αὐτοῦ τὴν προαίρεσιν ⁑</p>
+            </div>
+          </div>
+          <div n="103v_7" type="scholion">
+            <div n="lemma">
+              <p><num value="7">ζ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.34</p>
+            </div>
+            <div n="comment">
+              <p>διὰ τὸ εἶναι <q>κακὸν</q> ἄχθεται- οὐχ' ὅτι μόνον ἀπολοῦνται, ὃ καὶ <q>οἶκτον</q> κινεῖ ⁑</p>
+            </div>
+          </div>
+          <div n="103v_8" type="scholion">
+            <div n="lemma">
+              <p><num value="8">η</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.35-8.36</p>
+            </div>
+            <div n="comment">
+              <p>τὸ μὲν ἐπαμῦναι ἔργῳ, ἐναντίωσιν ἔχει τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName>- <choice><sic><w>τ<gap/></w></sic><corr>τὸ</corr></choice> δὲ, λόγῳ πρὸς τὸ μὴ πάντας ἀπολέσθαι ἀλλὰ
+δεηθῆναι <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName>, καὶ αὐτὸς θέλει ⁑</p>
+            </div>
+          </div>
+          <div n="103v_9" type="scholion">
+            <div n="lemma">
+              <p><num value=""></num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_10" type="scholion">
+            <div n="lemma">
+              <p><num value=""></num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_11" type="scholion">
+            <div n="lemma">
+              <p><num value=""></num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_12" type="scholion">
+            <div n="lemma">
+              <p><num value=""></num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p> ⁑</p>
+            </div>
+          </div>
+          <div n="103v_13" type="scholion">
+            <div n="lemma">
+              <p><num value=""></num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p> ⁑</p>
+            </div>
+          </div>
+
         </body>
       </text>
     </group>
