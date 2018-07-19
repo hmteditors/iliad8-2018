@@ -83,7 +83,7 @@
               </choice> , ἀλλὰ πρὸς τὸ πειθαρχικὸν χρὴ νοεῖν- ὑπακούειν γάρ ἐστι τὸ τὰ λεγόμενα πράσσειν ἄκουντας, ἑκόντας ἢ ἄκοντας ⁑</p>
             </div>
           </div>
-          <div n="103r_5" type="scholion">
+        <div n="103r_5" type="scholion">
             <div n="lemma">
               <p>
                 <num value="14">ιδ</num>
@@ -99,7 +99,7 @@
                 καὶ <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶν</persName> ⁑</p>
             </div>
           </div>
-          <div n="103r_6" type="scholion">
+        <div n="103r_6" type="scholion">
             <div n="lemma">
               <p><num value="15">ιε</num></p>
             </div>
@@ -113,7 +113,7 @@
                 καὶ <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶν</persName> <choice><abbr>φή</abbr><expan>φήσιν</expan></choice> ⁑</p>
             </div>
           </div>
-          <div n="103r_7" type="scholion">
+        <div n="103r_7" type="scholion">
             <div n="lemma">
               <p><num value="16">ιϛ</num></p>
             </div>
@@ -123,10 +123,10 @@
             <div n="comment">
               <p>τὸ <q><choice><sic>θεώς</sic><corr>θεός</corr></choice></q> κοινὸν- ᾧ ἀντὶ ἄρθρου παρέπλεκται
               <q>τὸ</q>, <q>θήλεια</q> καὶ
-<q>ἄρσην</q> ⁑ </p>
+              <q>ἄρσην</q> ⁑ </p>
             </div>
           </div>
-          <div n="103r_8" type="scholion">
+        <div n="103r_8" type="scholion">
             <div n="lemma">
               <p><num value="17">ιζ</num></p>
             </div>
@@ -142,7 +142,7 @@
                 τὰς ὑποσχέσεις εἶναι ⁑</p>
             </div>
           </div>
-          <div n="103r_9" type="scholion">
+        <div n="103r_9" type="scholion">
             <div n="lemma">
               <p><num value="18">ιη</num></p>
             </div>
@@ -152,12 +152,13 @@
             <div n="comment">
               <p>σπεύδει γὰρ ἐξαγαγεῖν <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλον</persName>,
               καὶ τιμῆσαι <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέα</persName>- ποῖα δὲ <q>ἔργα</q>
-              <choice><abbr>φὴ</abbr><expan>φησὶν</expan></choice>- τὸ τιμῆσαι μὲν αὐτὸν-  πολλοὺς δὲ τῶν <rs type="ethinc" n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</rs>
+              <choice><abbr>φὴ</abbr><expan>φησὶν</expan></choice>- τὸ τιμῆσαι μὲν αὐτὸν-  πολλοὺς δὲ τῶν
+              <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</rs>
               ἀπολέσαι-
 πιθανῶς δὲ οὐκ ἐπεξηγεῖται αὐτά ⁑</p>
             </div>
           </div>
-          <div n="103r_10" type="scholion">
+        <div n="103r_10" type="scholion">
             <div n="lemma">
               <p><num value="19">ιθ</num></p>
             </div>
@@ -171,7 +172,7 @@
                 τοῖς <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἕλλησι</rs> βοηθῆσαι- τὸ γὰρ κοινὸν οὐ λυπεῖ τινά ⁑</p>
             </div>
           </div>
-          <div n="103r_11" type="scholion">
+        <div n="103r_11" type="scholion">
             <div n="lemma">
               <p><num value="20">κ</num></p>
             </div>
@@ -182,7 +183,7 @@
               <p>ἄμεινον ὑποστίζειν εἰς τὸ <q><w>πλη<unclear>γ</unclear>είς</w></q> καὶ ἔστιν ἀντὶ τοῦ κεραυνωθείς- διδάσκει δὲ ὡς οἱ παραβαίνοντες τὰ τῶν ἀρχόντων θεσπίσματα κολαστέοι εἰσίν ⁑</p>
             </div>
           </div>
-          <div n="103r_12" type="scholion">
+        <div n="103r_12" type="scholion">
             <div n="lemma">
               <p><num value="21">κα</num></p>
             </div>
@@ -200,7 +201,7 @@
 καὶ ἠεροειδής ἐστιν ⁑</p>
             </div>
           </div>
-          <div n="103r_13" type="scholion">
+        <div n="103r_13" type="scholion">
             <div n="lemma">
               <p><num value="22">κβ</num></p>
             </div>
@@ -214,7 +215,7 @@
               οἱ ἀπειλοῦντες, τὰ ἀδύνατα σχεδὸν ἀπειλοῦσι πρὸς κατάπληξιν ⁑</p>
             </div>
           </div>
-          <div n="103r_14" type="scholion">
+        <div n="103r_14" type="scholion">
             <div n="lemma">
               <p><num value="23">κγ</num></p>
             </div>
@@ -225,37 +226,78 @@
               <p>κολαστήριον γάρ ἐστι <w>φυλάσσ<unclear>ων</unclear></w> τοὺς δεσμώτας- καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.415</ref><q>πυλάρταο κρατεροῖο</q></cit>- φοβερὰν δὲ δείκνυσι τὴν ἄνοδον διὰ τούτου ⁑</p>
             </div>
           </div>
-          <div n="103r_15" type="scholion">
+        <div n="103r_15" type="scholion">
             <div n="lemma">
-              <p>ID</p>
+              <p><num value="24">κδ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.LINE</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.16</p>
             </div>
             <div n="comment">
-              <p>TEXT</p>
+              <p>τὰ <choice><abbr>οὐνία</abbr><expan>οὐράνια</expan></choice>
+              ὥς <choice><abbr>φη</abbr><expan>φησι</expan></choice>,
+              τρία διαστήματα ἔχει- ἀέρα μέχρι νεφελῶν- εἶτα αἰθέρα μέχρι
+              τῶν <choice><orig>φενομένων</orig><reg>φαινομένων</reg></choice>,
+              καὶ τῆς <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName>
+              ἀρχῆς- οὕτω καὶ ἀπὸ τῆς γῆς εἰς <placeName n="urn:cite2:hmt:place.v1:place67">Ἅιδου</placeName>.
+              ἀπὸ δὲ <placeName n="urn:cite2:hmt:place.v1:place67">Ἅιδου</placeName>
+              εἰς τὸν <placeName n="urn:cite2:hmt:place.v1:place60">Τάρταρον</placeName>-
+              δῆλον δὲ ὡς τὸ μέσον κέντρον ἐστίν ἡ γῆ- ἔδει δὲ εἰπεῖν τόσσον ἔνερθε γῆς,
+              ὅσον ἀπ' αὐτῆς εἰς <choice><abbr>οὐνόν</abbr><expan>οὐρανόν</expan></choice>-
+              τάχα οὖν τὸ <placeName n="urn:cite2:hmt:place.v1:place67">Ἀΐδεω</placeName>,
+              ἀπὸ τῆς ἀρχῆς τοῦ <placeName n="urn:cite2:hmt:place.v1:place67">Ἅιδου</placeName>
+              <choice><abbr>φή</abbr><expan>φησίν</expan></choice>
+              <figure>
+                 <figDesc>The scribe has drawn a spherical diagram delinating the aether,
+                    air, Hades, and Taratus</figDesc>
+                 <floatingText>
+                    <body>
+                       <p>αἰθήρ</p>
+                       <p>ἀήρ</p>
+                       <p><placeName n="urn:cite2:hmt:place.r1:place67">Ἅιδης</placeName></p>
+                       <p><placeName n="urn:cite2:hmt:place.r1:place60">Τάρταρος</placeName></p>
+                    </body>
+                 </floatingText>
+              </figure> ⁑</p>
             </div>
           </div>
           <div n="103r_16" type="scholion">
             <div n="lemma">
-              <p>ID</p>
+              <p><num value="25">κε</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.LINE</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.18-8.19</p>
             </div>
             <div n="comment">
-              <p>TEXT</p>
+              <p>τῷ ἀποτόμως  ἀπειλοῦντι, καὶ τὴν ῥώμην οὐκ ἄτοπον
+                ἐνδείκνυσθαι- εἰ βούλεσθέ <choice><abbr>φη</abbr><expan>φησι</expan></choice>
+                τὴν διαφορὰν γνῶναι, πειράθητε- μεγάλα δὲ ὄντα τὰ προστάγματα,
+                μείζοσιν ὑπερβολαῖς ἐπιστώσατο- τοῦτον δὲ καὶ τὸν ἑξῆς συνάπτει
+                <persName n="urn:cite2:hmt:pers.v1:pers76">Νικάνωρ</persName>-
+                εἰς δὲ τὸ <q>κρεμάσαντες</q> τελείαν τίθησιν ⁑</p>
             </div>
           </div>
           <div n="103r_17" type="scholion">
             <div n="lemma">
-              <p>ID</p>
+              <p><num value="26">κϛ</num></p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.LINE</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.20</p>
             </div>
             <div n="comment">
-              <p>TEXT</p>
+              <p>ταῦτα <choice><abbr>φὴ</abbr><expan>φησὶ</expan></choice>
+              δεικνὺς ὡς οὐ καθ ένα, συλλήβδην δὲ πάντων κρείττων ἐστίν ⁑</p>
+            </div>
+          </div>
+          <div n="103r_18" type="scholion">
+            <div n="lemma">
+              <p><num value="27">κζ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:8.22</p>
+            </div>
+            <div n="comment">
+              <p>δείκνυσιν οἷς δεῖ κοσμεῖσθαι τὸν ἄρχοντα- ῥώμῃ καὶ συνέσει ⁑</p>
             </div>
           </div>
         </body>
