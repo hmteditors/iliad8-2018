@@ -1424,7 +1424,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.203</p>
                   </div>
                   <div n="comment">
-                     <p><placeName>Ἑλίκη</placeName>
+                     <p><placeName n="urn:cite2:hmt:place.v1:place277">Ἑλίκη</placeName>
                         <choice>
                            <abbr>πο</abbr>
                            <expan>πόλις</expan>
@@ -1591,7 +1591,7 @@ style simple scholia" alternate="no"?>
                         <q>κήλιον</q> ὡς παρα τὸ <q><rs type="ethnic"
                               n="urn:cite2:hmt:place.v1:place298">Μῆλον</rs></q>
                         <q><rs type="ethnic" n="urn:cite2:hmt:place.v1:place298">Μήλιον</rs></q> δερος-
-                        καὶ <rs n="urn:cite2:hmt:place.v1:place79" type="ethnic">Ἱ̈ωνικῶς</rs>
+                        καὶ <rs n="urn:cite2:hmt:place.v1:place79" type="ethnic">Ἱ+ωνικῶς</rs>
                         <q>κήλεον</q> καὶ <q>κηλέῳ</q> ἐκεῖνο γοῦν ἐντελές ἐστι, τὸ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.744</ref>
                            <q>σὺν πυρὶ κηλείῳ χάριν <persName n="urn:cite2:hmt:pers.v1:pers172"
