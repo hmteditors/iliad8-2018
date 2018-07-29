@@ -532,7 +532,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> τινὲς γράφουσι <q>σὺν</q> τῷ <rs type="waw">ν</rs>
+                        </choice> τινὲς <choice><abbr>γρ</abbr><expan>γράφουσι</expan></choice> <q>σὺν</q> τῷ <rs type="waw">ν</rs>
                         κακῶς </p>
                   </div>
                </div>
@@ -547,7 +547,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>οτ</abbr>
                            <expan>ὅτι</expan>
-                        </choice> τὰ oχήματα <q><choice>
+                        </choice> τὰ οχήματα <q><choice>
                               <abbr>αρματ</abbr>
                               <expan>ἅρματα</expan>
                            </choice></q> λέγουσι- </p>
