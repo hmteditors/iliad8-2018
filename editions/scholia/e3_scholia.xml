@@ -137,7 +137,7 @@
                      <p>ἀπὸ τῶν θηλειῶν ἄρχεται ὑπονοῶν αὐτῶν τὸ θορυβῶδες καὶ ἄτακτον- ἧττον γὰρ οἱ
                         ἄρρενες ἢ αἱ θήλειαι ταραχώδεις εἰσί- ταῦτα δὲ δι' <persName
                            n="urn:cite2:hmt:pers.v1:pers116">Ἥραν</persName> καὶ <persName
-                           n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶν</persName> φησιν⁑</p>
+                           n="urn:cite2:hmt:pers.v1:pers67">Ἀθηνᾶν</persName> <choice><abbr>φη</abbr><expan>φησιν</expan></choice> ⁑</p>
                   </div>
                </div>
                <div n="8" type="scholion">
@@ -161,7 +161,7 @@
                   </div>
                   <div n="comment">
                      <p>διακόψαι- ὅθεν καὶ κέρμα τὸ εἰς μικρὸν διακεκομμένον- ἐμὸν δὲ ἔπος. τὴν ἐμὴν
-                        φησιν ἐπαγγελίαν ἣν ὑπεσχόμην <persName n="urn:cite2:hmt:pers.v1:pers19"
+                        <choice><abbr>φη</abbr><expan>φησιν</expan></choice> ἐπαγγελίαν ἣν ὑπεσχόμην <persName n="urn:cite2:hmt:pers.v1:pers19"
                            >Θέτιδι</persName>- πρόθυμος δέ ἐστι δεικνὺς. οἵους δεῖ <choice>
                            <abbr>πε</abbr>
                            <expan>περὶ</expan>
@@ -211,7 +211,7 @@
                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:8.12@πληγεὶς</p>
                   </div>
                   <div n="comment">
-                     <p>ἄμεινον ὑποστίζειν εἰς τὸ πληγείς- καὶ ἔστιν ἀντὶ τοῦ κεραυνωθείς- διδάσκει
+                     <p>ἄμεινον ὑποστίζειν εἰς τὸ πληγείς- καὶ ἔστιν <choice><abbr>ἀντ</abbr><expan>ἀντὶ</expan></choice> τοῦ κεραυνωθείς- διδάσκει
                         δὲ ὡς οἱ παραβαίνοντες τὰ τῶν ἀρχόντων θεσπίσματα κολαστέοι εἰσίν⁑</p>
                   </div>
                </div>
@@ -232,7 +232,7 @@
                         ῥιγοῦν ταρταρίζειν <choice>
                            <abbr>φα</abbr>
                            <expan>φασίν</expan>
-                        </choice>- καὶ ὁ μὲ\ν ὅλος καταλάμπεται ὁ δὲ\ καὶ ἠεροειδής ἐστιν⁑</p>
+                        </choice>- καὶ ὁ μὲ\ν ὅλος <choice><abbr>κταλάμπεται</abbr><expan>καταλάμπεται</expan></choice> ὁ δὲ\ καὶ ἠεροειδής ἐστιν⁑</p>
                   </div>
                </div>
                <div n="14" type="scholion">
@@ -248,7 +248,7 @@
                            <abbr>φα</abbr>
                            <expan>φασιν</expan>
                         </choice>- πῶς δὲ δύναταί τις ἐκεῖσε κατελθεῖν- φαμὲν δὲ ὅτι οἱ ἀπειλοῦντες.
-                        τὰ ἀδύνατα σχεδὸν ἀπειλοῦσι πρὸς κατάπληξιν⁑</p>
+                        τὰ ἀδύνατα σχεδὸν ἀπειλοῦσι πρὸς <choice><abbr>κτάπληξιν</abbr><expan>κατάπληξιν</expan></choice> ⁑</p>
                   </div>
                </div>
                <div n="15" type="scholion">
@@ -276,7 +276,7 @@
                      <p>τὰ <choice>
                            <abbr>οὐνια</abbr>
                            <expan>οὐράνια</expan>
-                        </choice> ὥς φησι τρία διαστήματα ἔχει- ἀέρα μέχρι νεφελῶν- εἶτα αἰθέρα
+                        </choice> ὥς <choice><abbr>φη</abbr><expan>φησι</expan></choice> τρία διαστήματα ἔχει- ἀέρα μέχρι νεφελῶν- εἶτα αἰθέρα
                         μέχρι τῶν φαινομένων- καὶ τῆς <persName n="urn:cite2:hmt:pers.v1:pers8"
                            >Διὸς</persName> ἀρχῆς- οὕτω καὶ ἀπὸ τῆς γῆς εἰς <placeName
                            n="urn:cite2:hmt:place.v1:place67">Ἅδου</placeName>, ἀπὸ δὲ <placeName
